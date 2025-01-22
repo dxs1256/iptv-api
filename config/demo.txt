@@ -56,13 +56,11 @@ CCTV17,
 云南卫视,
 西藏卫视,
 
-港澳台/国际 #genre#
+港澳台/国际,#genre#
 Animax(HK),
 AXN,
 J2,
 KIX,
-Now华剧,
-Now剧集,
 PopC,
 TVB Plus,
 Viutv,
