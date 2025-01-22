@@ -56,151 +56,28 @@ CCTV17,
 云南卫视,
 西藏卫视,
 
-港·澳·台,#genre#
-Animax(HK)
-Astro AEC
-Astro iQIYI
-Astro Xing He
-AXN
-Channel 5 HD
-Channel 8 HD
-Channel U HD
-DW
-i-Fun 动漫台
-J2
-KIX
-Love Nature HD
-NHK World-Japan
-NHK东京综合
-Nick Jr
-Nickelodeon
-Now华剧
-Now剧集
-PopC
-ROCK Action
-Thrill
-TVB Plus
-TVBS
-TVBS亚洲
-TVBS欢乐
-TVBS新闻
-TVBS-新闻台
-tvN
-Viutv
-Viutv 99
-Viutv6 96
-ZooMoo
-中天亚洲台
-中天新闻台
-中视
-亚洲新闻台
-东森电影
-东森新闻
-东森综合
-东森超视
-三立新闻
-东方卫视国际频道
-凤凰中文
-凤凰卫视
-凤凰香港
-凤凰资讯
-千禧经典台(HK)
-华视
-寰宇新闻台
-明珠台
-明珠剧集台(北美)
-无线新闻
-无线新闻台
-无线新闻台(北美)
-无线卫星新闻台
-爱尔达影剧台
-爱尔达综合台
-爱尔达体育台
-翡翠台
-翡翠剧集台(北美)
-翡翠综合台(北美)
-纬来体育
-纬来体育台
-纬来育乐
-靖天电影台
-靖天资讯
-美亚电影台(HK)
-香港卫视
-龙华经典台
-龙华电影台
-龙华日韩台
-黄金翡翠台
-
-影视频道,#genre#
-CHC动作电影,
-CHC高清电影,
-CHC家庭影院,
-NewTV惊悚悬疑,
-NewTV动作电影,
-黑莓电影,
-纬来电影,
-靖天映画,
-星卫娱乐,
-美亚电影台,
-
-香港 #genre#
+港澳台/国际 #genre#
 Animax(HK),
+AXN,
 J2,
-美亚电影台(HK),
+KIX,
 Now华剧,
 Now剧集,
 PopC,
-香港卫视,
-千禧经典台(HK),
 TVB Plus,
 Viutv,
 Viutv 99,
 Viutv6 96,
-凤凰中文,
-凤凰卫视,
-凤凰香港,
-凤凰资讯,
+千禧经典台(HK),
 明珠台,
-无线新闻,
-无线新闻台,
+香港卫视,
 翡翠台,
+黄金翡翠台
+凤凰香港
 龙华经典台,
-
-马来西亚 #genre#
-Astro AEC,
-Astro iQIYI,
-Astro Xing He,
-
-新加坡 #genre#
-Channel 5 HD,
-Channel 8 HD,
-Channel U HD,
-亚洲新闻台,
-CHANNEL_NEWSASIA,
-
-日本 #genre#
-NHK World-Japan,
-NHK东京综合,
-NHK综合,
-NHKbs1,
-BS-TBS,
-日本テレビ,
-J SPORTS 1,
-J SPORTS 2,
-
-韩国 #genre#
-阿里郎频道,
-EBS KIDS,
-EBS Plus2,
-EBS-1,
-EBS-2,
-KBS WORLD,
-tvN,
-
-台湾 #genre#
+龙华电影台,
+台湾
 i-Fun 动漫台,
-JET综合,
-MOMO综合,
 TVBS,
 TVBS亚洲,
 TVBS欢乐,
@@ -225,50 +102,55 @@ TVBS-新闻台,
 靖天电影台,
 靖天资讯,
 龙华日韩台,
+JET综合,
+MOMO综合,
 台湾Plus,
-
-美国 #genre#
-CNN新闻,
-美国之音,
-Bloomberg,
-CNBC,
-FOX新闻频道,
-
-英国 #genre#
-BBC earth,
-Cbeebies频道,
-
-德国 #genre#
-DW,
-
-其他地区/国际 #genre#
-AXN,
-KIX,
-Love Nature HD,
-LOVE NATURE,
+新加坡
+Channel 5 HD,
+Channel 8 HD,
+Channel U HD,
+亚洲新闻台,
+马来西亚
+Astro AEC,
+Astro iQIYI,
+Astro Xing He,
+日本
+NHK World-Japan,
+NHK东京综合,
+美国
 Nick Jr,
 Nickelodeon,
+明珠剧集台(北美),
+无线新闻台(北美),
+翡翠剧集台(北美),
+翡翠综合台(北美),
+FOX新闻频道,
+国际/其他
+DW,
+Love Nature HD,
 ROCK Action,
 Thrill,
 ZooMoo,
-CINEMAX,
+tvN,
+东方卫视国际频道,
+凤凰中文,
+凤凰卫视,
+凤凰资讯,
+无线新闻,
+无线新闻台,
+无线卫星新闻台,
 ELEVEN1,
 ELEVEN2,
-EYE 戏剧,
-EYE 旅游台,
-HBO,
-HBO family,
-HBO HITS,
-HBO Signature,
-TLC,
 动物星球,
-博斯运动1,
-博斯运动2,
-BOOMERANG,
-Baby TV,
-黄金翡翠台,
-明珠剧集台(北美),
-翡翠剧集台(北美),
-翡翠综合台(北美),
-无线新闻台(北美),
-无线卫星新闻台,
+
+影视频道,#genre#
+CHC动作电影,
+CHC高清电影,
+CHC家庭影院,
+NewTV惊悚悬疑,
+NewTV动作电影,
+黑莓电影,
+纬来电影,
+靖天映画,
+星卫娱乐,
+美亚电影台,
