@@ -59,83 +59,80 @@ CCTV17,
 西藏卫视,
 
 港·澳·台,#genre#
-Animax(HK),
-Astro AEC,
-Astro iQIYI,
-Astro Xing He,
-AXN,
-Channel 5 HD,
-Channel 8 HD,
-Channel U HD,
-DW,
-东森电影,
-东森超视,
-东森综合,
-东森新聞,
-France 24,
-i-Fun 動漫台,
-J2,
-靖天电影台,
-靖天资讯,
-KIX,
-Love Nature HD,
-美亞電影台(HK),
-明珠台,
-明珠剧集台(北美),
-myTV SUPER 18台,
-NHK World-Japan,
-NHK東京総合,
-Nick Jr,
-Nickelodeon,
-Now华剧,
-Now剧集,
-PopC,
-ROCK Action,
-三立台湾,
-三立新闻,
-星卫娱乐,
-Thrill,
-TVB Plus,
-TVBS,
-TVBS亚洲,
-TVBS欢乐,
-TVBS新闻,
-TVBS-新聞台,
-tvN,
-Viutv,
-viutv 99,
-viutv6 96,
-卫视卡式,
-无线新闻,
-无线新闻台(北美),
-無線新聞台,
-無線衛星新聞台,
-緯來体育,
-纬来育乐,
-纬来体育台,
-寰宇新聞台,
-中天亞洲台,
-中天新聞台,
-中視,
-亞洲新聞台,
-千禧經典台(HK),
-华视,
-凤凰中文,
-凤凰卫视,
-凤凰资讯,
-凤凰香港,
-東方衛視國際頻道,
-東森新聞,
-翡翠台,
-翡翠剧集台(北美),
-翡翠综合台(北美),
-娛樂新聞台(HK),
-龍華日韓台,
-龍華經典台,
-龍華電影台,
-黃金翡翠台,
-ZooMoo,
-香港卫视,
+Animax(HK)
+Astro AEC
+Astro iQIYI
+Astro Xing He
+AXN
+Channel 5 HD
+Channel 8 HD
+Channel U HD
+DW
+i-Fun 动漫台
+J2
+KIX
+Love Nature HD
+NHK World-Japan
+NHK东京综合
+Nick Jr
+Nickelodeon
+Now华剧
+Now剧集
+PopC
+ROCK Action
+Thrill
+TVB Plus
+TVBS
+TVBS亚洲
+TVBS欢乐
+TVBS新闻
+TVBS-新闻台
+tvN
+Viutv
+Viutv 99
+Viutv6 96
+ZooMoo
+中天亚洲台
+中天新闻台
+中视
+亚洲新闻台
+东森电影
+东森新闻
+东森综合
+东森超视
+三立新闻
+东方卫视国际频道
+凤凰中文
+凤凰卫视
+凤凰香港
+凤凰资讯
+千禧经典台(HK)
+华视
+寰宇新闻台
+星卫娱乐
+明珠台
+明珠剧集台(北美)
+无线新闻
+无线新闻台
+无线新闻台(北美)
+无线卫星新闻台
+爱尔达影剧台
+爱尔达综合台
+爱尔达体育台
+翡翠台
+翡翠剧集台(北美)
+翡翠综合台(北美)
+纬来体育
+纬来体育台
+纬来育乐
+靖天电影台
+靖天资讯
+美亚电影台(HK)
+香港卫视
+龙华经典台
+龙华电影台
+龙华日韩台
+黄金翡翠台
 
 影视频道,#genre#
 CHC动作电影,
