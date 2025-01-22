@@ -59,7 +59,6 @@ CCTV17,
 西藏卫视,
 
 港·澳·台,#genre#
-28 AI 智慧賽馬,
 Animax(HK),
 Astro AEC,
 Astro iQIYI,
