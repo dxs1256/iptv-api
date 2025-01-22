@@ -143,327 +143,132 @@ NewTV动作电影,
 星卫娱乐,
 美亚电影台,
 
-国外频道,#genre#
-台湾
-Baby TV
-CATCHPLAY电影台
-Cbeebies频道
-CINEMAX
-ELEVEN1
-ELEVEN2
-ELTA體育1
-EYE 戏剧
-EYE 旅游台
-HBO
-JET综合
-KMTV
-LOVE NATURE
-LUXE TV
-MOMO综合
-NHK
-Order
-SMART知识
-Star World
-TaiwanPlus
-TLC
-TVBS
-TVBS欢乐
-TVBS精采台
-TVBS新聞
-TVBS综合
-卫视中文台
-卫视电影
-卫视西片
-三立iNEWS
-三立Live新闻
-三立都会
-三立新闻
-三立综合
-三立财经新闻
-三立戏剧台
-三立台湾
-中天亚州
-中天娱乐
-中天全民最大党
-中天综合
-中天新闻
-中天美食旅游
-中视
-中视经典台
-中视新闻
-中视HD
-中台湾生活网
-中视新闻
-东森财经新闻
-东森财经
-东森电影
-东森戏剧
-东森购物一
-东森购物二
-东森超视
-东森综合
-东森新闻
-东森洋片
-东森呦呦
-八大戏剧
-八大第一
-八大综合
-公视
-公视3台
-公视戏剧
-华视
-华视CTS
-华视新闻
-华视新闻信息
-华视新闻资讯台
-华语戏剧
-华语综艺
-年代MUCH
-年代新闻
-幸福空间居家
-寰宇新闻
-寰宇新闻台湾
-寰宇财经
-寰宇综合
-客家电视
-客家电视台
-宠物星球
-宝贝第一
-时尚运动Ｘ
-国家地理
-国家地理野生
-大爱
-大爱2
-大爱海外
-大爱电视
-好消息
-好消息2
-好莱坞电影
-宝宝星球
-客家电视台
-智林体育
-新唐人亚太
-爱尔达生活旅游
-爱尔达影剧台
-爱尔达综合台
-艾尔达体育1台
-艾尔达体育2台
-艾尔达体育3台
-梅迪奇艺术
-滚动力
-民视
-民视台湾
-民视第一
-民视新闻
-民视影剧
-民视旅游
-民视综艺
-民视HD
-民视新闻台
-龙华偶像
-龙华日韩
-龙华卡通
-龙华戏剧
-龙华经典
-龙华电影
-龙华洋片
-靖天卡通
-靖天映画
-靖天欢乐
-靖天国际
-靖天日本
-靖天信息
-靖天综合
-靖天戏剧
-靖天育乐
-靖洋卡通
-靖洋戏剧台
-靖天电影台
-唯心电视
-原住民电视
-滚动力
-台视
-台视HD
-台视新闻
-台视新闻台
-台视财经
-台视综合台
-美食星球
-国家地理频道
-亚洲旅游
-亚洲旅游台
-亚州旅游
-亚州综合
-精选动漫
-经典卡通
-经典电影
-金光布袋戏
-猪哥亮歌厅秀
-LiveABC交互英语
-ELEVEN2
-纬来体育
-纬来育乐
-纬来日本
-纬来综合
-纬来戏剧
-纬来电影
-博斯魅力
-博斯无限
-博斯无限II
-博斯高球
-博斯高球I
-博斯高球II
-博斯运动I
-博斯运动II
-博斯网球
-智林体育
-寰宇新闻
-壹新闻
-地方台
-中台湾生活网
-美丽人生
-海豚综合
-卫视电影台
-时尚运动Ｘ
-幸福空间居家
-BabyFirst
-SMART知识
-滚动力
-猪哥亮歌厅秀
-精选动漫
-经典卡通
-经典电影
-金光布袋戏
-中台湾生活网
-美丽人生
-海豚综合
-博斯魅力
-博斯无限
-博斯无限II
-博斯高球I
-博斯高球II
-博斯运动I
-寰宇新闻台湾
-寰宇财经
-寰宇综合
-外语电影
-韩剧轮播
-KPOP
-原住民电视
-华藏卫视
-唯心卫视
-大立电视
-孝廉电视
-香港
-Afn
-BBC LIFESTYLE
-Cinena World
-HKC603
-HOY TV
-J2
-J2(备)
-NOW直播
-NOW新闻
-明珠台
-RTHK31
-RTHK32
-TVB US1
-TVB US2
-ViUTV
-凤凰中文
-凤凰资讯
-有线国际财经
-有线体育
-有线新闻
-无线财经
-无线财经(备)
-无线新闻
-无线新闻(备)
-翡翠台
-翡翠台(备)
-TVBS欢乐
-澳门
-Canal Macau
-MACAU衛星频道
-澳门澳视
-澳门体育
-澳门综艺
-澳门资讯
-日本
-BS-1
-BS日テレ
-BS朝日(bak)
-BS-TBS
-BSジャパン
-J SPORTS 1
-J SPORTS 2
-NHK
-NHK総合
-NHK総合-大阪
-NHKbs1
-NHKbs2
-群馬テレビ
-TBS
-TBSテレビ
-TOKYO MX1
-TOKYO MX2
-Weather News
-WOWOWシネマ
-WOWOWライブ
-スターチャンネル 1
-テレビ東京
-テレビ富士
-日本テレビ
-日本テレビ(备)
-関西テレビ
-NHK华语
-韩国
-阿里郎频道
-EBS E
-EBS KIDS
-EBS Plus2
-EBS plus1
-EBS-1
-EBS-2
-KBS 2
-KBS WORLD
-韩国KBS 1
-SBS
-SBS plus
-其他国际
-ANIMAX
-AO体育
-AXN
-Baby TV
-BBC earth
-BBC WORLD新闻
-Bloomberg
-BOOMERANG
-CNBC
-CNN新闻
-DMAX
-EURO SPORT
-Food Network
-FOX新闻频道
-HBO family
-HBO HITS
-HBO Signature
-MTV频道
-SBN全球财经
-TLC
-Z频道
-cnn新闻
-动物星球
-半岛国际新闻
-博斯运动1
-博斯运动2
-诚心电视台
-法国24电视
-德国之声
-历史频道
-信吉卫视
-凤凰中文
-凤凰资讯
-美国之音
-时尚频道
-CHANNEL_NEWSASIA
+香港 #genre#
+Animax(HK),
+J2,
+美亚电影台(HK),
+Now华剧,
+Now剧集,
+PopC,
+香港卫视,
+千禧经典台(HK),
+TVB Plus,
+Viutv,
+Viutv 99,
+Viutv6 96,
+凤凰中文,
+凤凰卫视,
+凤凰香港,
+凤凰资讯,
+明珠台,
+无线新闻,
+无线新闻台,
+翡翠台,
+龙华经典台,
+
+马来西亚 #genre#
+Astro AEC,
+Astro iQIYI,
+Astro Xing He,
+
+新加坡 #genre#
+Channel 5 HD,
+Channel 8 HD,
+Channel U HD,
+亚洲新闻台,
+CHANNEL_NEWSASIA,
+
+日本 #genre#
+NHK World-Japan,
+NHK东京综合,
+NHK综合,
+NHKbs1,
+BS-TBS,
+日本テレビ,
+J SPORTS 1,
+J SPORTS 2,
+
+韩国 #genre#
+阿里郎频道,
+EBS KIDS,
+EBS Plus2,
+EBS-1,
+EBS-2,
+KBS WORLD,
+tvN,
+
+台湾 #genre#
+i-Fun 动漫台,
+JET综合,
+MOMO综合,
+TVBS,
+TVBS亚洲,
+TVBS欢乐,
+TVBS新闻,
+TVBS-新闻台,
+中天亚洲台,
+中天新闻台,
+中视,
+东森电影,
+东森新闻,
+东森综合,
+东森超视,
+三立新闻,
+华视,
+寰宇新闻台,
+爱尔达影剧台,
+爱尔达综合台,
+爱尔达体育台,
+纬来体育,
+纬来体育台,
+纬来育乐,
+靖天电影台,
+靖天资讯,
+龙华日韩台,
+台湾Plus,
+
+美国 #genre#
+CNN新闻,
+美国之音,
+Bloomberg,
+CNBC,
+FOX新闻频道,
+
+英国 #genre#
+BBC earth,
+Cbeebies频道,
+
+德国 #genre#
+DW,
+
+其他地区/国际 #genre#
+AXN,
+KIX,
+Love Nature HD,
+LOVE NATURE,
+Nick Jr,
+Nickelodeon,
+ROCK Action,
+Thrill,
+ZooMoo,
+CINEMAX,
+ELEVEN1,
+ELEVEN2,
+EYE 戏剧,
+EYE 旅游台,
+HBO,
+HBO family,
+HBO HITS,
+HBO Signature,
+TLC,
+动物星球,
+博斯运动1,
+博斯运动2,
+BOOMERANG,
+Baby TV,
+黄金翡翠台,
+明珠剧集台(北美),
+翡翠剧集台(北美),
+翡翠综合台(北美),
+无线新闻台(北美),
+无线卫星新闻台,
