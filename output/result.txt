@@ -652,6 +652,10 @@ CHC家庭影院,http://59.173.243.210:9901/tsfile/live/1031_1.m3u8
 黑莓电影,http://122.141.1.108:10001/itv/1000000004000019624.m3u8?cdn=ystenlive
 黑莓电影,http://14.155.147.44:1212/itv/1000000004000019624.m3u8?cdn=ystenlive
 黑莓电影,http://gdxt.tian-yun.cn:8013/itv/1000000004000019624.m3u8?cdn=ystenlive
+
+
+排球少年,#genre#
+排球少年-垃圾场决战,https://s6-e1.pipecdn.vip/ppot/_definst_/mp4:s15/dvod/dy-pqsnljcjz-720p-025281500.mp4/chunklist.m3u8?vendtime=1737801936&vhash=QQd1dYx7OltfiGZf_CIzq3sYrjDJoMHjVTyVx13c1Wg=&vCustomParameter=0_74.48.144.51_US_0_0&lb=7f92b3dbd5de4eee3e909c9e55371cb7
 黑莓电影,http://175.152.138.72:6455/itv/1000000004000019624.m3u8?cdn=ystenlive
 黑莓电影,http://47.112.219.2:3005/itv/1000000004000019624.m3u8?cdn=ystenlive
 美亚电影台,http://ku9.fr.to/smt.php?id=meiyamovie_twn
