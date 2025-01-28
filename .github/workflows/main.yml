@@ -1,4 +1,4 @@
-name: 'Update schedule'
+name: 'IPTV Update'
 
 on:
   schedule:
