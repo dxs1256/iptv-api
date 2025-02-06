@@ -1379,3 +1379,7 @@ http://ku9.fr.to/smt.php?id=meiyamovie_twn
 https://live.hkdvb.com/hls/live/201.m3u8?token=245492868516952
 #EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠剧集台(北美).png" group-title="影视频道",翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-name="Summer Mix 2025" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠剧集台(北美).png" group-title="影视频道",翡翠剧集台(北美)
+https://hls.chew.jp/youtube/?video=hEaLSMOdpWs
+#EXTINF:-1 tvg-name="夏日氛围" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠剧集台(北美).png" group-title="影视频道",翡翠剧集台(北美)
+https://hls.chew.jp/youtube/?video=Oq-Yhkt397I
